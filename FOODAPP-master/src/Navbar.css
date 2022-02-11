@@ -1,0 +1,48 @@
+.navbar ul{
+    color: black;
+    list-style-type: none;
+    text-decoration: none;
+    flex:row;
+    margin-top: 10px;
+    margin-right: 50px;
+}
+.navbar{
+    color: black;
+    margin-bottom: 10px;
+    position: relative;
+}
+.navbar li{
+    margin-top: 10px;
+    list-style-type: none;
+    margin-right: 30px;
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    float: right;
+    font-size: 18px;
+    text-decoration: none;
+    display: block;
+    color: black;
+    
+}
+.headernav{
+
+    position: relative;
+    font-size:30px;
+    margin-left: 20px;
+    font-family: 'Irish Grover', cursive;
+font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;   
+    font-weight: bolder;
+    margin-top: 2px;
+    float: left;
+}
+.start{
+   color: black;
+}
+.start:hover{
+    border-bottom: rgb(161, 148, 148);
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    transition: 0.5s;
+}
